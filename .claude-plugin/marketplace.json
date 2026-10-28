@@ -1,0 +1,7 @@
+{
+  "name": "wesell",
+  "owner": { "name": "We Sell" },
+  "plugins": [
+    { "name": "wesell-social-skills", "source": "./", "description": "Skills social media We Sell", "version": "1.0.0" }
+  ]
+}
