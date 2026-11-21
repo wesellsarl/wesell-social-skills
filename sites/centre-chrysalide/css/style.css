@@ -131,7 +131,9 @@ details p{margin:.8em 0 0;color:var(--muted)}
 /* Responsive */
 @media (max-width:960px){
   .hero-grid,.two-col{grid-template-columns:1fr}
-  .hero-art{order:-1;max-width:260px;margin-inline:auto}
+  .hero{padding-top:28px}
+  .hero-grid{gap:16px}
+  .hero-art{order:-1;max-width:120px;margin-inline:auto}
   .steps{grid-template-columns:1fr 1fr}
   .footer-grid{grid-template-columns:1fr}
   .nav-toggle{display:block}
